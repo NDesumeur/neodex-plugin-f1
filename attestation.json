@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.f1",
+  "repo": "NDesumeur/neodex-plugin-f1",
+  "version": "1.0.0",
+  "sha256": "530c7f71ec8ccd161718a80cd6161942f42235e6c853abeafded5f48b63cb242",
+  "approvedAt": "2026-11-05T09:32:52.401Z",
+  "neobase": ">=4.0.0",
+  "signature": "5dk1G+7NJeRROUUPgcNm0BJK+oakbzqIUswO0WBzPKoP573mVdCIdevDKhFRiOgj5rSKu6EeGTIif9sYqJpzDw=="
+}

@@ -1,0 +1,24 @@
+{
+  "id": "neodex.f1",
+  "name": "Formule 1",
+  "version": "1.0.0",
+  "author": "NDesumeur",
+  "description": "La saison de F1 : calendrier avec les horaires de chaque séance, compte à rebours, résultats des courses, qualifications et sprints, classements pilotes et écuries.",
+  "icon": "icon.png",
+  "entry": "index.js",
+  "view": "f1",
+  "neobase": ">=4.0.0",
+  "type": "app",
+  "category": "Sport",
+  "mobile": true,
+  "system": false,
+  "dependencies": {},
+  "autoload": true,
+  "sdk": "2.1.0",
+  "permissions": [
+    "storage",
+    "agenda",
+    "background",
+    "network:api.jolpi.ca"
+  ]
+}
