@@ -10,6 +10,8 @@
   "neobase": ">=4.0.0",
   "type": "app",
   "category": "Sport",
+  "syncMode": "fusion",
+  "syncInfo": "Tes préférences.",
   "mobile": true,
   "system": false,
   "dependencies": {},
