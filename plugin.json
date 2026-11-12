@@ -10,6 +10,7 @@
   "neobase": ">=4.0.0",
   "type": "app",
   "category": "Sport",
+  "compatibility": ["windows", "android", "linux"],
   "syncMode": "fusion",
   "syncInfo": "Tes préférences.",
   "mobile": true,
