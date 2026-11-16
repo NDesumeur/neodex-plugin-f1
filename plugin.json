@@ -1,9 +1,9 @@
 {
   "id": "neodex.f1",
   "name": "Formule 1",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "author": "NDesumeur",
-  "description": "La saison de Formule 1 : calendrier avec l'horaire de chaque séance à l'heure de Paris et compte à rebours jusqu'au prochain Grand Prix, résultats complets des courses, qualifications et sprints de chaque manche, classements pilotes et écuries. Une étoile met ton pilote en avant, et les qualifications et courses peuvent aller dans ton emploi du temps. Données Jolpica.",
+  "description": "La saison de Formule 1 : calendrier avec l'horaire de chaque séance à l'heure de Paris et compte à rebours jusqu'au prochain Grand Prix, résultats complets des courses, qualifications et sprints de chaque manche, classements pilotes et écuries. Une étoile met ton pilote en avant, et les qualifications et courses peuvent aller dans ton emploi du temps. Données Jolpica. Textes plus grands et largeur selon l'écran ; tracé de chaque circuit en pixel art (grand sur le prochain Grand Prix, avec une voiture qui en fait le tour, petit sur chaque manche) ; le drapeau à damier s'affiche de nouveau.",
   "icon": "icon.png",
   "entry": "index.js",
   "view": "f1",
